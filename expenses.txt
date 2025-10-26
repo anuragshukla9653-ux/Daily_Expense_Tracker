@@ -1,0 +1,3 @@
+26-10-2025,Food,250,swiggy
+26-10-2025,Shopping,1150,Jeans
+27-10-2025,Food,500,Pizza,Snaks
